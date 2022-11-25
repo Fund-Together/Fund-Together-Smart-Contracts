@@ -1,4 +1,4 @@
-# Fund Together Project
+# Fund Together Smart Contracts
 
 The purpose of these contracts is to provide a custom campaign creation system for advertisers to verify Fund Together.
 
